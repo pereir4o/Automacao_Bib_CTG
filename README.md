@@ -1,4 +1,4 @@
-# 📚 Automação de Extração e Indexação de Dados Bibliográficos | CTG-UFPE
+# Automação de Extração e Indexação de Dados Bibliográficos | CTG-UFPE
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green.svg)](https://www.selenium.dev/)
@@ -10,7 +10,7 @@ O projeto surgiu de um pedido feito por minha ex chefe (fui bolsista PROGEPE na 
 
 ---
 
-## 🎯 Impacto e Resultados
+## Impacto e Resultados
 
 - **96% de Taxa de Sucesso:** Validação e indexação automática de acervos diretamente no portal institucional.
 - **Redução Drástica de Tempo:** Processo reduzido de várias semanas de esforço manual para poucas horas de execução em segundo plano.
@@ -18,7 +18,7 @@ O projeto surgiu de um pedido feito por minha ex chefe (fui bolsista PROGEPE na 
 
 ---
 
-## ⚙️ Arquitetura da Solução
+## Arquitetura da Solução
 
 O ecossistema foi estruturado em 4 grandes etapas integradas:
 
@@ -31,7 +31,7 @@ O ecossistema foi estruturado em 4 grandes etapas integradas:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Linguagem Principal:** Python
 - **Manipulação de PDFs e Texto:** `PyMuPDF`, `re` (Regex)
