@@ -1,10 +1,8 @@
 # Autenticação e Segredos
-data/
 *.json
 .env
 
 # Arquivos de Dados e Manuais
-data/
 *.pdf
 *.xlsx
 *.csv
