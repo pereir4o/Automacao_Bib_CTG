@@ -27,7 +27,7 @@ O ecossistema foi estruturado em 4 grandes etapas integradas:
 3. **Automação Web & RPA (Selenium WebDriver):** Navegação autônoma no sistema Pergamum (portal de acervo da UFPE) para pesquisar códigos de acervo, filtrar bibliotecas específicas (Tecnologia e Geociências) e capturar metadados atualizados em tempo real.
 4. **Atualização em Bloco (Batch Update):** Otimização de chamadas de API (reduzindo verbosidade e latência) ao preencher os dados validados de forma simultânea nas planilhas de auditoria.
 
-**Recomendo fortemente a leitura do READM me na pasta src, onde explico a estrutura dos módulos de 1 à 4.**
+**Recomendo fortemente a leitura do README na pasta src, onde explico a estrutura dos módulos de 1 à 4**
 
 ---
 
