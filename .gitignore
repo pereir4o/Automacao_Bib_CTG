@@ -1,0 +1,16 @@
+# Autenticação e Segredos
+data/
+*.json
+.env
+
+# Arquivos de Dados e Manuais
+data/
+*.pdf
+*.xlsx
+*.csv
+
+# Cache e Ambientes Virtuais do Python
+__pycache__/
+*.pyc
+venv/
+.venv/
