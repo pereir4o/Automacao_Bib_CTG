@@ -1,4 +1,4 @@
-# ⚙️ Arquitetura e Módulos do Sistema (`/src`)
+# Arquitetura e Módulos do Sistema (`/src`)
 
 Este diretório contém o código-fonte da aplicação, estruturado de forma modular para garantir manutenibilidade, legibilidade e facilidade na execução e nos testes de integração. Também serviu de aprendizagem para estruturas modulares.
 
